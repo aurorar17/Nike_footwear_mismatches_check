@@ -1,0 +1,24 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# SQLite local database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Environment variables and secrets
+.env
+.env.*
